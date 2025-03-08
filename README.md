@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kasokki
 - 👀 I’m interested in Game Development (specially Horror Indie Games)
-- 🌱 I’m currently learning Software Development / Full-Stack
+- 🌱 I’m currently learning Software Development (for games) / Full-Stack
 - 📫 My contact: kasokkiart@gmail.com
 - 😄 Pronouns: he/him
 
